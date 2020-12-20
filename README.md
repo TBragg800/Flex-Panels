@@ -19,8 +19,7 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application of Flex-Panels created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is 
-  . To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application of Flex-Panels created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to get more expierince with flex/flex box and to play with events and transitions. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
@@ -57,5 +56,5 @@ SOFTWARE.
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
-![](./assets/.png)
+![](./assets/Flex-Panels.png)
 
